@@ -8,7 +8,7 @@ public class SpringConfig extends SpringBootServletInitializer {
 	
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
-		// TODO Auto-generated method stub
+		
 		return super.configure(builder);
 	}
 }
